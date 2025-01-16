@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/320454728814694453/0545a92255ca42db97574beab4d88c62/artifacts
+end_time: 1736940160043
+entry_point_name: ''
+experiment_id: '320454728814694453'
+lifecycle_stage: active
+run_id: 0545a92255ca42db97574beab4d88c62
+run_name: unique-fox-85
+run_uuid: 0545a92255ca42db97574beab4d88c62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736940159915
+status: 4
+tags: []
+user_id: labdu
